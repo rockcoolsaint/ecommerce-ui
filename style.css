@@ -1,3 +1,7 @@
 ul#cart-dropdown-menu li input {
 	width: 38px;
 }
+
+div.col-sm-6.col-md-3 {
+	position: relative;
+}
